@@ -560,14 +560,14 @@ Evaluated against 64-query test set across 130+ policies:
 
 ### Windows
 ```bash
-git clone https://github.com/NikunjKaushik20/PolicyPulse.git
+git clone https://github.com/harianshsinghal/PolicyPulse.git
 cd PolicyPulse
 setup.bat
 ```
 
 ### Linux/macOS
 ```bash
-git clone https://github.com/NikunjKaushik20/PolicyPulse.git
+git clone https://github.com/harianshsinghal/PolicyPulse.git
 cd PolicyPulse
 chmod +x setup.sh
 ./setup.sh
