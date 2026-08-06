@@ -6,8 +6,6 @@ A policy reasoning and accountability platform for Indian government schemes. Bu
 **Coverage:** 130+ schemes | 2,500+ documents | 10 languages  
 **Capability:** Retrieval ✓ | Eligibility Reasoning ✓ | "Why Not" Explanations ✓ | Causality Tracking (50 schemes) ✓
 
-### 🚀 Live Demo: **[https://policypulse.live](https://policypulse.live)**
-
 ## Table of Contents
 1. [The Problem](#the-problem-we-observed)
 2. [Real-World Scenario](#real-world-scenario)
