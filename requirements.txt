@@ -20,6 +20,7 @@ pydantic==2.5.3
 slowapi==0.1.9
 python-multipart==0.0.6
 multipart
+email-validator
 
 # ── ML / AI (core) ─────────────────────────────────────────────────────────────
 # NOTE: torch must be installed separately with ROCm or CPU wheel (see above).
