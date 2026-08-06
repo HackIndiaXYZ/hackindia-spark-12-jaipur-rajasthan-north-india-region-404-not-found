@@ -22,7 +22,7 @@ Complete setup instructions for running PolicyPulse locally. Tested on Windows 1
 ### Windows
 
 ```batch
-git clone https://github.com/NikunjKaushik20/PolicyPulse.git
+git clone https://github.com/harianshsinghal/PolicyPulse.git
 cd PolicyPulse
 ./setup.bat
 ```
@@ -30,7 +30,7 @@ cd PolicyPulse
 ### Linux / macOS
 
 ```bash
-git clone https://github.com/NikunjKaushik20/PolicyPulse.git
+git clone https://github.com/harianshsinghal/PolicyPulse.git
 cd PolicyPulse
 chmod +x setup.sh
 ./setup.sh
