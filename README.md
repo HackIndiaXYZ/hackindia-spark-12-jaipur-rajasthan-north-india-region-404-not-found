@@ -1,6 +1,6 @@
 # PolicyPulse
 
-A policy reasoning and accountability platform for Indian government schemes. Built during the AI for Bharat hackathon to solve a systemic problem: citizens cannot determine eligibility, trace policy changes, or understand why benefits were denied.
+A policy reasoning and accountability platform for Indian government schemes. Built to solve a systemic problem: citizens cannot determine eligibility, trace policy changes, or understand why benefits were denied.
 
 **System Status:** Production-ready for 50 high-priority schemes | Basic retrieval for 80+ more  
 **Coverage:** 130+ schemes | 2,500+ documents | 10 languages  
