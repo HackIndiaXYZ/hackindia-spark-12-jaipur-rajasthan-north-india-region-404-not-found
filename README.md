@@ -811,4 +811,4 @@ GPL-3.0
 
 ## Acknowledgments
 
-Built for the AI for Bharat hackathon. We wanted to demonstrate that useful policy access tools can be built with open-source components and modest hardware. The core retrieval works entirely offline once data is ingested.
+Built for the hackindia Spark-12. We wanted to demonstrate that useful policy access tools can be built with open-source components and modest hardware. The core retrieval works entirely offline once data is ingested.
